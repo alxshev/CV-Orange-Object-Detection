@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 
+
 MIN_COLOR_THRESH = np.array([0, 180, 20])
 MAX_COLOR_THRESH = np.array([50, 255, 200])
 
